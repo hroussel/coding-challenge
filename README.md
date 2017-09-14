@@ -4,9 +4,9 @@ Create a simple ReactJS app that fetch and display a list of github issues. For 
 
 The API supports pagination, at the beginning load the first page with 5 issues. At the bottom there is a button `Next` that loads the next 5 issues. 
 
-Clicking on an issue item will make it highlighted. 
+Clicking on an issue item to highlight it. Click on it again will toggle the highlight. Only 1 item is highlighted at a time. 
 
-The UI can be plain, just focus on the logic. However we'll pay attention to code quality, and how neatly you implement it. 
+Feel free to implement the UI your own way. However we'll pay attention to code quality, and how neatly you implement it. 
 
 ### API
 
